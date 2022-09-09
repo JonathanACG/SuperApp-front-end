@@ -1,0 +1,27 @@
+.modulo-1{
+  margin: 10px 10px;
+}
+.container-icon {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 10px auto;
+  align-items: center;
+
+}
+
+.icon-m1 {
+  display: inherit;
+  padding: 2px;
+  margin: 2px;
+  width: 23.5%;
+  align-items: center;
+}
+.img-icon-m1{
+  width: 55px;
+  margin: 20px auto;
+
+}
+
+
+  
